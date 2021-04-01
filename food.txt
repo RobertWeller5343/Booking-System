@@ -1,0 +1,3 @@
+
+--monday--12:00--3--sandwichPlatter yesfor 3people--pastery yes 3--water no 0--coke no 0--tea no 0--cofee yes 4
+--1--12:00--5--sandwichPlatter yesfor 4people--pastery yes 4--water no 0--coke no 0--tea no 0--cofee no 0
